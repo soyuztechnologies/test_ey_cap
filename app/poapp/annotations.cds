@@ -1,0 +1,1 @@
+using ViewService as service from '../../srv/ViewService';
